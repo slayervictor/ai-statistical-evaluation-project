@@ -18,13 +18,13 @@ Expectation alignment:
 - Meet more frequently at the beginning to have discussions regarding the scope,
 - Gradually split as the technical tasks need to be completed.
 
-# Points we need to cover:
+# Points we covered:
 
-- Synopsis 10/1
-- Peer-review 11/1
-- Individual assignment 16/1
-- Report 17/1
-- Exam 19/1
+- Synopsis (January 10th)
+- Peer-review (January 11th)
+- Individual assignment (January 16th)
+- Report (January 17th)
+- Exam (January 19th)
 
 # Synopsis:
 
@@ -50,7 +50,7 @@ Expectation alignment:
 
   * Should we investigate all parameters for HR in the first question?
 
-# Ongoing points:
+# Additional points we covered:
 
 - Loaded data
 - Create plots on data (boxplot)
