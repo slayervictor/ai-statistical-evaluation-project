@@ -1,63 +1,58 @@
-# 02445-Projekt
+# 02445-Project
 
 02445 Project in statistical evaluation for AI and Data
 
-Notes første møde:
+Notes from the first meeting:
 
-Udvælgelse af individuelle cases:
+Selection of individual cases:
 
-- case 1 - Lars
+- Case 1 - Lars
 - Case 2 - Victor Reynolds
 - Case 3 - Lucas
 
-Forventningsafstemning:
+Expectation alignment:
 
-- Folk har noget arbejde men er ellers ret flex ift. hvornår vi skal arbejde
+- People have some work but are otherwise quite flexible regarding when we should work.
+  * Weekends are generally not preferred.
 
-* weekenden er som udgangspunkt ikke ønsket
+- Meet more frequently at the beginning to have discussions regarding the scope,
+- Gradually split as the technical tasks need to be completed.
 
-- Mødes oftere her i starten for at få taget nogle snakke her ift afgrænsning,
-- splittes efterhånden som de tekniske skal laves
+# Points we need to cover:
 
-# Punkter vi skal nå:
-
-- synopsis 10/1
-- peer-review 11/1
-- individuel opgave d. 16/1
-- rapport d. 17/1
-- eksamen d. 19/1
+- Synopsis 10/1
+- Peer-review 11/1
+- Individual assignment 16/1
+- Report 17/1
+- Exam 19/1
 
 # Synopsis:
 
-- Setting - Hvad er dataen omkring, og hvor kommer det fra ift. data beskrivelsen
-- Plots - Undersøg fordelinger på individ niveau (er det normalfordelt)
-  - Boxplots over de forskellige variable
-  - Scatter plots for samme
-  - Multi feature analysis, siden vi har flere HR metrikker
-  - 
-## Ideas for analysis
+- Setting - What is the data about, and where does it come from according to the data description?
+- Plots - Investigate distributions at the individual level (is it normally distributed?)
+  - Boxplots over the different variables
+  - Scatter plots for the same
+  - Multi-feature analysis, since we have several HR metrics
 
-  * Afhænger hvorvidt om dataen lever op til de respektive assumptions som test kræver
-  * Det er som udgangspunkt paired, da det er flere observationer af de samme individer
+## Ideas for analysis:
 
-## Challenges
+  * Depends on whether the data meets the respective assumptions required by the tests.
+  * It is primarily paired, as there are multiple observations of the same individuals.
 
-  * afhængig af om der skal transformeres data
-  * Lede efter outliers
-  * se om alle klasser er repræsenteret
-  * Relativt lille datasæt - kan indivirke vores evne til at finde signifikante resultater, og producere modeller med tilfredstillende performance
+## Challenges:
 
--
+  * Depending on whether the data needs to be transformed.
+  * Look for outliers.
+  * See if all classes are represented.
+  * Relatively small dataset - can affect our ability to find significant results and produce models with satisfactory performance.
 
-- Løbende spørgsmål til underviser:
+- Ongoing questions for the instructor:
 
-  * Skal vi undersøger alle alle paramtre for HR i første spørgsmål?
+  * Should we investigate all parameters for HR in the first question?
 
-# Løbende punkter:
+# Ongoing points:
 
 - Loaded data
-- Få lavet plots på data (boxplot)
-- Få undersøgt fordelinger på klasser
-- Lede efter outliers
-
-
+- Create plots on data (boxplot)
+- Investigate distributions in classes
+- Look for outliers
